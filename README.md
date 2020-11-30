@@ -3,7 +3,9 @@
 > In this repo you will find a very basic version of the game Space Invaders. Feel free to clone the repo and try it out, let me know what you think and any sugestions you might have. 
 Note: This is a project for fun so implementations will be long winded.
 
-![](./Assets/images/home_screenshot.png)
+![screenshot](./Assets/invaders_menu.png)
+![screenshot](./Assets/invaders_game.png)
+![screenshot](./Assets/invaders_home.png)
 
 ## Built With
 
