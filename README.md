@@ -27,13 +27,6 @@ Python 3
 
 In your terminal navigate to project directory and run command python3 main.py
 
-## Author
-
-👤 **Jurgen Clausen Gutierrez**
-
-- Github: [@jurgen1c](https://github.com/jurgen1c)
-- LinkedIn: [jurgen-clausen](https://www.linkedin.com/in/jurgen-clausen-2740061a9/)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
